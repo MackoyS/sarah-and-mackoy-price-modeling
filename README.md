@@ -22,26 +22,26 @@ The data set kc_house_data.csv is the sole data set used for Specs Consulting’
 ## EDA
 For our initial Data Analysis, the team decided to look at certain series and look at them to see if they had any relationship to price. Some of the attributes we looked at were construction grade, if the property was on the waterfront or not, and square footage of the home.
 
-![graph1](./images/graph1.png)
+![graph1](./images/graph1.PNG)
 
-![graph2](./images/graph2.png)
+![graph2](./images/graph2.PNG)
 
-![graph3](./images/graph3.png)
+![graph3](./images/graph3.PNG)
 
 ## Baseline
 The team's baseline model is based off of the mean of our cleaned data set, which was a property sales price of ~$489,000. This essentially gives us the bare minimum number when it comes to telling home buyers what to expect when purchasing a home. The team then moved on to a simple model to start adding in specific home attributes.
 
-![graph4](./images/dummy_model.png)
+![graph4](./images/dummy_model.PNG)
 
 ## Simple
 For the simple model, the team used construction grade and square footage of the home. This model showed that ~44% of sales price variance is caused by these two attributes.
 
-![graph5](./images/model_6.png)
+![graph5](./images/model_6.PNG)
 
 ## Best Multiple
 For our best model we went to the attributes for the construction grade, square footage of the home, if it was on the waterfront, square footage of the 15 closest homes, square footage of the home above the basement, and a feature stating if the home is in the city or not. This model showed that ~52% of sales price variance is caused by these attributes.
 
-![graph6](./images/model_best.png)
+![graph6](./images/model_best.PNG)
 
 # Conclusions
 For the agents of Every Door, it is important that they help educate their clients by explaining to them how certain attributes will affect their potential home purchase. The main values to keep an eye on are the construction grade, the square footage, if it’s on the waterfront, the comparable properties in the area, and if it is in the city or not. Equipped with this knowledge, home buyers can better prepare themselves for their home buying journey.
