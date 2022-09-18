@@ -1,4 +1,5 @@
 ![logo](./images/logo.png)
+Specs Consulting
 
 # Every Door Real Estate - Educating Clients About Sale Price and Pre-Approval Process
 This repository was created to help educate home buyers understand sales price and the attributes that most contribute to its variance. The data used is from 2014-2015 for houses sold in King County, Washington. The original stakeholder goal for our hypothetical client, Every Door Real Estate, was to come up with a model to help analyze what attributes most impact the sales price of a home. This way they could help their clients prioritize the features most important to them, so that they could understand what impact those features had on the sales price of the home. Through our analysis, Specs Consulting was able to come up with several features that Every Door agents can talk over with their clients.
