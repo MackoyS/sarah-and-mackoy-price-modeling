@@ -59,5 +59,6 @@ For any additional questions, please contact **Sarah Jack | sajack2000@gmail.com
 ├── SpecsProject.ipynb               <- Narrative documentation of analysis in Jupyter notebook
 ├── presentation.pdf                 <- PDF version of project presentation
 ├── data                             <- Both sourced externally and generated from code
+├── eda                              <- Jupyter Notebooks used for eda and data cleaning
 └── images                           <- Both sourced externally and generated from code
 ```
